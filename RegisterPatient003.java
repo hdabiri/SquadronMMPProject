@@ -13,7 +13,7 @@
  * 
  * Post script steps will be to log into the admin portal to verify the account was successfully created and to activate the account.
  * @author hidayah
- *
+ * Adding Sudheer51 as a collaborator
  */
 package com.iit.selenium.mavenprojects.registerPatient;
 
